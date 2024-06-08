@@ -1,8 +1,8 @@
 return {
     EnableTeleport = true, -- Set to false if you don't want the teleport into the ipl.
     Teleports = {
-        {label = '**E** - Enter', zone = vec4(780.01, -1867.64, 29.29, 90.3), set = vec4(-2203.87, 1146.48, -23.26, 177.79)},
-        {label = '**E** - Leave', zone = vec4(-2220.27, 1158.77, -23.26, 3.76), set = vec4(779.89, -1875.91, 29.27, 264.22)},
+        {label = '**E** - Entrar', zone = vec4(780.01, -1867.64, 29.29, 90.3), set = vec4(-2203.87, 1146.48, -23.26, 177.79)},
+        {label = '**E** - Sair', zone = vec4(-2220.27, 1158.77, -23.26, 3.76), set = vec4(779.89, -1875.91, 29.27, 264.22)},
     },
     CenterZone = vec3(-2171.14, 1104.69, -24.36),
     Prize = {
